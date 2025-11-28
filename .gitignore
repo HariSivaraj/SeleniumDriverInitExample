@@ -1,0 +1,8 @@
+# Build + reports
+target/
+test-output/
+
+# IDE files (Eclipse)
+.classpath
+.project
+.settings/
